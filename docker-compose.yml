@@ -5,4 +5,4 @@ services:
   api:
     image: codait/max-facial-recognizer
     ports:
-      - 5030:5000
+      - 5080:5000
